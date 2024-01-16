@@ -1,0 +1,3432 @@
+[{
+  "_id": {
+    "$oid": "653d4c307d72f1f8c07e7878"
+  },
+  "group": "231_1",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "302C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6542ab80a9bc0f38dd424ae9"
+  },
+  "group": "231_1",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6542af93a9bc0f38dd424aef"
+  },
+  "group": "231_1",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Крюков С.А."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6542b302a9bc0f38dd424af5"
+  },
+  "group": "231_1",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547b7216e742c1968e6f557"
+  },
+  "group": "231_1",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "500B",
+    "teacher": "Кислицина А.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547dfd46e742c1968e6f55b"
+  },
+  "group": "231_1",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "412C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e1ce6e742c1968e6f55c"
+  },
+  "group": "231_1",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e2806e742c1968e6f55e"
+  },
+  "group": "231_1",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Крюков С.А."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e5776e742c1968e6f562"
+  },
+  "group": "231_1",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e6036e742c1968e6f564"
+  },
+  "group": "231_1",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "500B",
+    "teacher": "Кислицина А.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e7e56e742c1968e6f569"
+  },
+  "group": "231_2",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "412C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6547e87d6e742c1968e6f56d"
+  },
+  "group": "231_2",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547eba46e742c1968e6f57a"
+  },
+  "group": "231_2",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Крюков С.А."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547ebcb6e742c1968e6f57e"
+  },
+  "group": "231_2",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f0486e742c1968e6f58b"
+  },
+  "group": "231_2",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Фабрина А.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f0bd6e742c1968e6f593"
+  },
+  "group": "231_2",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "412C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f1116e742c1968e6f597"
+  },
+  "group": "231_2",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f1686e742c1968e6f59b"
+  },
+  "group": "231_2",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Крюков С.А."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f1946e742c1968e6f59f"
+  },
+  "group": "231_2",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "6547f22e6e742c1968e6f5a5"
+  },
+  "group": "231_2",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "304A",
+    "teacher": "Фабрина А.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f75581b1b8d260fa6c940"
+  },
+  "group": "232_1",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "411C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f77081b1b8d260fa6c942"
+  },
+  "group": "232_1",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "500B",
+    "teacher": "Шестакова Е.С."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f78151b1b8d260fa6c944"
+  },
+  "group": "232_1",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f788c1b1b8d260fa6c946"
+  },
+  "group": "232_1",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f7bb81b1b8d260fa6c948"
+  },
+  "group": "232_1",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Основы Цифровой Грамотности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f7d481b1b8d260fa6c94c"
+  },
+  "group": "232_1",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "406C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f7ed71b1b8d260fa6c94e"
+  },
+  "group": "232_1",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "8A",
+    "teacher": "Чабанов В.В."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "8A",
+    "teacher": "Чабанов В.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "500B",
+    "teacher": "Шестакова Е.С."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f7fdc1b1b8d260fa6c950"
+  },
+  "group": "232_1",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f81871b1b8d260fa6c952"
+  },
+  "group": "232_1",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "8A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f84c91b1b8d260fa6c954"
+  },
+  "group": "232_1",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "411C",
+    "teacher": "Клименко Е.П."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8c184e5b6e756e767768"
+  },
+  "group": "232_2",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "5",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "411C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8d044e5b6e756e76776a"
+  },
+  "group": "232_2",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "8A",
+    "teacher": "Чабанов В.В."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "8A",
+    "teacher": "Чабанов В.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "531B",
+    "teacher": "Ильина В.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8da04e5b6e756e76776c"
+  },
+  "group": "232_2",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8dfa4e5b6e756e76776e"
+  },
+  "group": "232_2",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8eb34e5b6e756e767770"
+  },
+  "group": "232_2",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "224A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8f144e5b6e756e767772"
+  },
+  "group": "232_2",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "406C",
+    "teacher": "Дорофеев Д.В."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f8f934e5b6e756e767774"
+  },
+  "group": "232_2",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "531B",
+    "teacher": "Ильина В.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f909c4e5b6e756e767777"
+  },
+  "group": "232_2",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f914f4e5b6e756e767779"
+  },
+  "group": "232_2",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "120A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f91a94e5b6e756e76777b"
+  },
+  "group": "232_2",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "411C",
+    "teacher": "Клименко Е.П."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f941a4e5b6e756e76777d"
+  },
+  "group": "233_1",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f968c4e5b6e756e76777f"
+  },
+  "group": "233_1",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "525B",
+    "teacher": "Мельниченко Т.В."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f97d44e5b6e756e767781"
+  },
+  "group": "233_1",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9ad34e5b6e756e767783"
+  },
+  "group": "233_1",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9b9c4e5b6e756e767785"
+  },
+  "group": "233_1",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Дорофеев Д.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9bfd4e5b6e756e767787"
+  },
+  "group": "233_1",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9cb14e5b6e756e767789"
+  },
+  "group": "233_1",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "117A",
+    "teacher": "Зойкин Е.С."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9e0e4e5b6e756e76778b"
+  },
+  "group": "233_1",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "3",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Мальцев В.А."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9f384e5b6e756e76778d"
+  },
+  "group": "233_1",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "515B",
+    "teacher": "Мельниченко Т.В."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654f9fda4e5b6e756e76778f"
+  },
+  "group": "233_1",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "209A",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa0ab4e5b6e756e767791"
+  },
+  "group": "233_2",
+  "week": "Нечетная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa1f54e5b6e756e767793"
+  },
+  "group": "233_2",
+  "week": "Нечетная",
+  "day of the week": "Вторник",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa2884e5b6e756e767795"
+  },
+  "group": "233_2",
+  "week": "Нечетная",
+  "day of the week": "Среда",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "119A",
+    "teacher": "Завьялов  "
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Клименко Е.П."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa3664e5b6e756e767797"
+  },
+  "group": "233_2",
+  "week": "Нечетная",
+  "day of the week": "Четверг",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "409C",
+    "teacher": "Скляренко "
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa39e4e5b6e756e767799"
+  },
+  "group": "233_2",
+  "week": "Нечетная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "309A",
+    "teacher": "Дорофеев Д.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa49c4e5b6e756e76779b"
+  },
+  "group": "233_2",
+  "week": "Четная",
+  "day of the week": "понедельник",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Высшая Математика",
+    "type of activity": "Лекция",
+    "auditorium": "211A",
+    "teacher": "Смирнова С.И."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Основы Российской Государственности",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "306C",
+    "teacher": "Клименко Е.П."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Есть",
+    "time": "18:20 - 19:50",
+    "break": "10 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "languages": [
+      {
+        "first discipline": "Немецкий",
+        "auditorium": "311B",
+        "teacher": "Вареник М.Ю."
+      },
+      {
+        "second discipline": "Французский",
+        "auditorium": "316B",
+        "teacher": "Томичева И.В."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa4d84e5b6e756e76779d"
+  },
+  "group": "233_2",
+  "week": "Четная",
+  "day of the week": "Вторник",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Основы Цифровой Грамотности ",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "9A",
+    "teacher": "Корниенко А.Ю."
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "История России",
+    "type of activity": "Лекция",
+    "auditorium": "209A",
+    "teacher": "Непомнящий А.А."
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa60d4e5b6e756e76779f"
+  },
+  "group": "233_2",
+  "week": "Четная",
+  "day of the week": "Среда",
+  "number of pairs": "4",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "224A",
+    "teacher": "Завьялов  "
+  },
+  "third pair": {
+    "available": "Есть",
+    "time": "11:30 - 13:00",
+    "break": "20 минут",
+    "discipline": "Алгоритмизация и программирование",
+    "type of activity": "Лекция",
+    "auditorium": "302A",
+    "teacher": "Чабанов В.В."
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "Структуры и алгоритмы обработки данных",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "315A",
+    "teacher": "Горская И.Ю."
+  },
+  "fifth pair": {
+    "available": "Есть",
+    "time": "15:00 - 16:30",
+    "break": "10 минут",
+    "discipline": "Физическая Культура",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "Спортзал ТА",
+    "teacher": "Епишкин И.В."
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa6e64e5b6e756e7677a1"
+  },
+  "group": "233_2",
+  "week": "Четная",
+  "day of the week": "Четверг",
+  "number of pairs": "2",
+  "first pair": {
+    "available": "Есть",
+    "time": "8:00 - 9:30",
+    "break": "20 минут",
+    "discipline": "Иностранный язык",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "409C",
+    "teacher": "Скляренко "
+  },
+  "second pair": {
+    "available": "Есть",
+    "time": "9:50 - 11:20",
+    "break": "10 минут",
+    "discipline": "Деловая коммуникация и русская речевая культура",
+    "type of activity": "Лекция",
+    "auditorium": "309A",
+    "teacher": "Рудницкая Л.И."
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Отсутствует ",
+    "time": "13:20 - 14:50",
+    "break": "10 минут"
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fa7484e5b6e756e7677a3"
+  },
+  "group": "233_2",
+  "week": "Четная",
+  "day of the week": "Пятница",
+  "number of pairs": "1",
+  "first pair": {
+    "available": "Отсутствует ",
+    "time": "8:00 - 9:30",
+    "break": "20 минут"
+  },
+  "second pair": {
+    "available": "Отсутствует ",
+    "time": "9:50 - 11:20",
+    "break": "10 минут"
+  },
+  "third pair": {
+    "available": "Отсутствует ",
+    "time": "11:30 - 13:00",
+    "break": "20 минут"
+  },
+  "fourth pair": {
+    "available": "Есть",
+    "time": "13:20 - 14:50",
+    "break": "10 минут",
+    "discipline": "История России",
+    "type of activity": "Практическое Занятие",
+    "auditorium": "209A",
+    "teacher": "Дорофеев Д.В."
+  },
+  "fifth pair": {
+    "available": "Отсутствует ",
+    "time": "15:00 - 16:30",
+    "break": "10 минут"
+  },
+  "sixth pair": {
+    "available": "Отсутствует ",
+    "time": "16:40 - 18:10",
+    "break": "10 минут"
+  },
+  "seventh pair": {
+    "available": "Отсутствует ",
+    "time": "18:20 - 19:50",
+    "break": "10 минут"
+  }
+}]
